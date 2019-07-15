@@ -13,4 +13,4 @@ Plug-in used:
 - Mesmerize Companion.
 
 
-You can access the site on: trabalhos.esmad.ipp.pt/tsiw/18-19/nes/wp_group02/
+You can access the site on (copy link): trabalhos.esmad.ipp.pt/tsiw/18-19/nes/wp_group02/
